@@ -1,0 +1,15 @@
+# Ignore the build directory
+/Build/
+
+# Ignore the library folder (Unity cache, etc.)
+/Library/
+
+# Ignore the Temp folder
+/Temp/
+
+# Ignore the obj folder
+/obj/
+
+# Ignore user-specific files
+.DS_Store
+Thumbs.db
